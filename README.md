@@ -9,11 +9,11 @@ In this project we applied sentiment analysis, machine learning techniques topic
 
 To address the problem at hand we need to do the following:
 
-## **Install the liberaries
+# **Install the liberaries**
 
-## **Data Prpcessomg**
+# **Data Prpcessomg**
 
-## **Stemming and lemmatization**
+# **Stemming and lemmatization**
 
 ## **Sentence segmentation**
 
@@ -41,9 +41,9 @@ To address the problem at hand we need to do the following:
 ## **Contribution**
    -  For major change, please open an issue first discuss what you would like to change. Please make sure you update test as appropriate.
 ## **Licence*
-......
+...
 Copy Right (C) 2023 David Gabriel
-.....
+...
 
 ## **Further Reading**
   - S. Bird, Natural (2009) language processing(NLP) with Python, O'Reilly Book
