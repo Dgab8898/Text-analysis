@@ -9,7 +9,7 @@ In this project we applied sentiment analysis, machine learning techniques topic
 
 To address the problem at hand we need to do the following:
 
-# **Install the liberaries**
+# *Install the liberaries*
 
 # **Data Prpcessomg**
 
