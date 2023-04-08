@@ -11,19 +11,22 @@ To address the problem at hand we need to do the following:
 
 **Install the liberaries**
 
-# **Data Prpcessomg**
 
-# **Stemming and lemmatization**
+**Data Prpcessomg**
+
+
+
+**Stemming and lemmatization**
 -
 
 
-## **Sentence segmentation**
+**Sentence segmentation**
 
 
-## **Stop word removal**
+**Stop word removal**
 
 
-## **Tokenization**
+**Tokenization**
 
 
 ## **Feature Extraction**
@@ -32,27 +35,27 @@ To address the problem at hand we need to do the following:
 ## **TF-IDF**
 
 
-## **Word2Vec**
+**Word2Vec**
 
 
-## **Machine learning NLP techniques**
+**Machine learning NLP techniques**
  - Logistic regression
  - Naive Bayes
-## **Latent Dirichlet Allocation (LDA)**
+**Latent Dirichlet Allocation (LDA)**
 
-## **Deep learning NLP Techniques:**  
+**Deep learning NLP Techniques:**  
    - RNN
    
-## **Issues**
+**Issues**
   - None
-## **Contribution**
+**Contribution**
    -  For major change, please open an issue first discuss what you would like to change. Please make sure you update test as appropriate.
-## **Licence**
+**Licence**
 ...
 Copy Right (C) 2023 David Gabriel
 ...
 
-## **Further Reading**
+**Further Reading**
   - S. Bird, Natural (2009) language processing(NLP) with Python, O'Reilly Book
   - https://www.coursera.org/specializations/deep-learning
   - https://www.coursera.org/specializations/natural-language-processing
