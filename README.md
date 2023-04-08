@@ -17,7 +17,6 @@ To address the problem at hand we need to do the following:
 
 
 **Stemming and lemmatization**
--
 
 
 **Sentence segmentation**
