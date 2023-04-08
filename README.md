@@ -1,5 +1,5 @@
 # Text-analysis
-Text Analysis Project 
+Natural Language processing - Text Analysis Project 
 
 # **Problem Statement**
 
