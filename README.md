@@ -29,10 +29,13 @@ To address the problem at hand we need to do the following:
 **Tokenization**
 
 
-## **Feature Extraction**
+
+**Feature Extraction**
 
 
-## **TF-IDF**
+
+
+**TF-IDF**
 
 
 **Word2Vec**
