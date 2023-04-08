@@ -49,7 +49,9 @@ To address the problem at hand we need to do the following:
    -  For major change, please open an issue first discuss what you would like to change. Please make sure you update test as appropriate.
 ## **Licence**
 ...
+
 Copy Right (C) 2023 David Gabriel
+
 ...
 
 ## **Further Reading**
