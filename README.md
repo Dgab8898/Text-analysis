@@ -14,19 +14,26 @@ To address the problem at hand we need to do the following:
 # **Data Prpcessomg**
 
 # **Stemming and lemmatization**
+-
+
 
 ## **Sentence segmentation**
 
+
 ## **Stop word removal**
 
+
 ## **Tokenization**
+
 
 ## **Feature Extraction**
 
 
 ## **TF-IDF**
 
+
 ## **Word2Vec**
+
 
 ## **Machine learning NLP techniques**
  - Logistic regression
@@ -40,7 +47,7 @@ To address the problem at hand we need to do the following:
   - None
 ## **Contribution**
    -  For major change, please open an issue first discuss what you would like to change. Please make sure you update test as appropriate.
-## **Licence*
+## **Licence**
 ...
 Copy Right (C) 2023 David Gabriel
 ...
