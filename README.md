@@ -11,12 +11,12 @@ To address the problem at hand we need to do the following:
 
 **Install the liberaries**
 
-import all the necessary library
-import pandas
-import numpy
-import NLTK
-import spaCy
-import sklearn
+- import all the necessary libraries
+- import pandas
+- import numpy
+- import NLTK
+- import spaCy
+- import sklearn
 
 **Data Prpcessomg**
 
@@ -39,7 +39,7 @@ Remove the most commonly occurring words that don’t add much information to th
 
 **Tokenization**
 
-splits text into individual words and word fragments. The result generally consists of a word index and tokenized text\nin which words may be represented as numerical tokens for use in various deep learning methods
+Splits text into individual words and word fragments. The result generally consists of a word index and tokenized text\nin which words may be represented as numerical tokens for use in various deep learning methods
 
 
 **Feature Extraction**
@@ -54,18 +54,18 @@ In Bag-of-Words, we count the occurrence of each word or n-gram in a document.
 
 **Word2Vec**
 
-uses a neural network to learn high-dimensional word embeddings from raw text. It comes in two variations: Skip-Gram, in which we try to predict surrounding words given a target word.
+Uses a neural network to learn high-dimensional word embeddings from raw text. It comes in two variations: Skip-Gram, in which we try to predict surrounding words given a target word.
 
 **Machine learning NLP techniques**
 
  - Logistic regression
-   to predict the probability that an event will occur based on some input. can be applied to solve sentiment analysis problems
+   To predict the probability that an event will occur based on some input. can be applied to solve sentiment analysis problems
  - Naive Bayes
-   algorithm that finds the conditional probability distribution
+   Algorithm that finds the conditional probability distribution
  - 
 **Latent Dirichlet Allocation (LDA)**
 
- to view a document as a collection of topics and a topic as a collection of words.
+ To view a document as a collection of topics and a topic as a collection of words.
 
 **Deep learning NLP Techniques:**  
    - RNN
