@@ -76,7 +76,10 @@ Uses a neural network to learn high-dimensional word embeddings from raw text. I
   - None
 **Contribution**
    -  For major change, please open an issue first discuss what you would like to change. Please make sure you update test as appropriate.
+   
+   
 **Licence**
+
 ...
 Copy Right (C) 2023 David Gabriel
 ...
