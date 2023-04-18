@@ -85,7 +85,7 @@ Copy Right (C) 2023 David Gabriel
 
 **Credit**
 
-I acknowldege that, I\m sitting on giant shoulder of programmers, developers, professors
+I acknowldege that, I'm sitting on gaint shoulders of programmers, developers, professors
 
 **Further Reading**
   - S. Bird, Natural (2009) language processing(NLP) with Python, O'Reilly Book
