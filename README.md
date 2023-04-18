@@ -84,6 +84,9 @@ Uses a neural network to learn high-dimensional word embeddings from raw text. I
 Copy Right (C) 2023 David Gabriel
 ...
 
+**Credit**
+I acknowldefe that, I\m sitting on giant shoulder of programmers, developers, professors
+
 **Further Reading**
   - S. Bird, Natural (2009) language processing(NLP) with Python, O'Reilly Book
   - https://www.coursera.org/specializations/deep-learning
